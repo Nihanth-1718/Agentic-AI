@@ -1,0 +1,8 @@
+Welcome to Python File Handling.
+Today we are learning write mode.
+Python
+Agentic AI
+RAG
+This line is added using append mode.
+
+Learning File Handling using Python.
